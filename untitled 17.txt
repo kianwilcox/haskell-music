@@ -1,0 +1,49 @@
+def det(matrix)
+  return matrix if matrix.kind_of?(Fixnum)
+  if two_by_two(matrix)
+    matrix[0][0]*matrix[1][1]-matrix[0][1]*matrix[1][0]
+  else
+    ## grab the first row
+    ## iterate through the row, alternating + and -
+    ## multiply the element in the row times the determinant of the minor matrix
+    sign = 0
+    total = 0
+    matrix[0].each_with_index do |x, i|
+      sign % 2 == 0 ? total += x*det(minor(matrix, 0, i)) : total+= -x*det(minor(matrix, 0,i))
+    end
+  end
+  total
+end
+
+def minor(matrix)
+  ...
+end
+
+def splitter(string)
+  string.split(" ").reverse.join(" ")
+end
+
+def mysplitter(string)
+  ## accumulate until you hit a space
+  ## add the item to the list, go to the next index
+  words = []
+  word = ""
+  string.chars.each do |c|
+    if c == " "
+      words << word if word != ""
+      word = ""
+      next
+    else
+      word << c
+      next
+    end
+  end
+  words << word if word != " "
+  words.reverse.join(" ")
+end
+
+2*2 = 1
+3*3 = 3
+4*4 = 4*3
+5*5 = 5*4*3
+

@@ -1,0 +1,136 @@
+pristine:644b56c802298e6e22d7988371a5d4173bb49ea3cfbe46821cd3f41bfabd1e2c
+[Initial repository
+paul.hudak@yale.edu**20120121150320
+ Ignore-this: dfc5c12c6e5c35a40ac0a5594d2595df
+] 
+hash: 0000935506-f38ef7a2ec2ddc79ba5b1cda4b588343d5f9d39ecd85b359c7ed5beb1b8c8d6c
+[hide t251
+paul.hudak@yale.edu**20120121153741
+ Ignore-this: f0729457e28f9659d625990f19d80f5c
+] 
+hash: 0000000206-a5241d26cc567916266d0efe9f3cf3c07d6e0d93978cd3fb70c8fcfb9f2ee435
+[MUI changed to UISF based
+dwc@cs.yale.edu**20120125030554
+ Ignore-this: c2b456a8df4623d6436b6d9285de620
+] 
+hash: 0000055800-796fe1a48ff1acac429cabcaeae71baaccfd44c1f6ec7899f96132a5a64d4717
+[MUI updates
+dwc@cs.yale.edu**20120126214846
+ Ignore-this: ea09d291162ace14395e59ffe2ade834
+] 
+hash: 0000011856-df7594d38fa4db721c329e7f7060bec3b50e0da1d3fc9bdd112368ca40ebbe36
+[Fixed Control.SF.Arrow warning
+dwc@cs.yale.edu**20120127200411
+ Ignore-this: 96a6cbd5ce22ffcb46c0e92f43dbca7c
+] 
+hash: 0000000392-b69c86855f1e57ad3f619ef80d3399b9f48a2b90f66c146b20b6708452bf295b
+[Fixed RenderSF bug
+dwc@cs.yale.edu**20120127200446
+ Ignore-this: 7dfdaad22b5ff80e7d72158af6c68226
+] 
+hash: 0000000557-db8ad47cbfac6ae3547f5ddeaf9ab26b5a98b9fe9d4a4303534c3a50c74de23d
+[small changes to import/exports
+paul.hudak@yale.edu**20120129001636
+ Ignore-this: c6deec5c73165cba7ac2b58cf60485be
+] 
+hash: 0000001179-534548ca18e0b352dc7e1ff0696d2d80172441caef4564e864e4c41ad94aa1bf
+[changed pfields to params
+paul.hudak@yale.edu**20120208202926
+ Ignore-this: 1549152d40e7f29617f0ec7b7d32570e
+] 
+hash: 0000022645-fe3c844d9e856e882a2543529e4b843caac71bc31891564736b9909e290a5c87
+[lots of changes to IO/Audio
+paul.hudak@yale.edu**20120212004441
+ Ignore-this: 71aea42e898b8924b124365a63301872
+] 
+hash: 0000096116-2a0ec08258b56d2f2ca2feafc0c624eb040411ef8b4c7471b6f0d2086756e596
+[FFT added
+dwc@cs.yale.edu**20120213033253
+ Ignore-this: 3ef7fa994f3cce843f9cd0cfd7915750
+] 
+hash: 0000014474-fffac1547c64367be8c5fed51301a33b777e4f654fd68d32a40d6d620c1bf9a4
+[some HSoM additions
+paul.hudak@yale.edu**20120217014943
+ Ignore-this: 454dd53982757d24e7d3715743644b2a
+] 
+hash: 0000002604-c1518b4da5297ffb549c6b43a0aae33307897f9a69bce9d889736635363e2e48
+[Major renaming of sigfuns, and restructuring of exports
+paul.hudak@yale.edu**20120222014914
+ Ignore-this: 50f42a2e0993ba8c2cf287631e56bdda
+] 
+hash: 0000069940-b6cbf41fa617a836cc05775d977af962016c3ed179a1b759c4a73935ed39ce08
+[added IO/Audio.hs
+paul.hudak@yale.edu**20120222153656
+ Ignore-this: a4b9989e10e923eb3ad7d8d0e6432437
+] 
+hash: 0000000596-9b8ffeaacc9134ec0f4b80a2b17dfc7652c6e95d074079db6379ffcbac785511
+[added Examples/MusicToSignal.lhs
+paul.hudak@yale.edu**20120222155635
+ Ignore-this: 650755882f7e0f7f2bd0adc74ebd58c0
+] 
+hash: 0000003074-106d4ffd83a4e3a0e4f32bc5a1c049c4320eebe437a8431527076354f8961989
+[incorporated GLFW updates
+dwc@cs.yale.edu**20120222201001
+ Ignore-this: 5bf919eac08c2a316d558d6fad67503a
+] 
+hash: 0000001849-5aa2f9d4061080937f6169ebbb197179981e679fb7b0aa00b7609c7f2082aaae
+[made display' a default widget
+dwc@cs.yale.edu**20120222202605
+ Ignore-this: 64909cd8b019e8d08ef42965c6be5a45
+] 
+hash: 0000001061-de8ef7e2ee3be2c14815d298aee8ba0757f582116b41a90f69727b65faae2213
+[added constA to BasicSigFuns
+paul.hudak@yale.edu**20120223152301
+ Ignore-this: 821084efe75bcab635f785cedfa8ff9c
+] 
+hash: 0000011784-ba3925f8824ec5b220f255e1c605edd9c8521e3b01f2cad8b1404ad89d09477c
+[minor fixes
+paul.hudak@yale.edu**20120224185826
+ Ignore-this: bd62491e1736f1092b2eaa761ed5cf2b
+] 
+hash: 0000003568-a4e2318a7562960fca60083aafad243b0f592bc6c3011479efba44f435ca63ef
+[Fixed warnings in compilation
+dwc@cs.yale.edu**20120223233915
+ Ignore-this: aa0171ee46e071a794138c98e9a64f9c
+] 
+hash: 0000001360-93a4ad4740f409180459a74b919c93b557bad6be397411d44078c070e4dfc35a
+[Updated convertToUISF
+dwc@cs.yale.edu**20120224190444
+ Ignore-this: 41ce9b292a8ae50060c6dc5e04c583da
+] 
+hash: 0000001865-45349db6e5c467deb96f40df0a84f6fd57055dd262a141186f5139d8ad9b2629
+[fixed fancyPlayer export conflict
+paul.hudak@yale.edu**20120224192352
+ Ignore-this: ac33060c544d38c0ae5da90795a0f64f
+] 
+hash: 0000000264-241e3e411837218ed82eaa08b12e58ecd8ef5dcf45ff08d341e3d0286ce92ba8
+[Ssf to SSF
+paul.hudak@yale.edu**20120224223422
+ Ignore-this: 221bbdb1e5c9e81a07ef79d289d0e194
+] 
+hash: 0000003091-096ee271196f94787648c7dad49eaa6838ca08a4b585a87223c61321e6585d59
+[Updated convertToUISF
+dwc@cs.yale.edu**20120228233809
+ Ignore-this: 4e73e53c384eaf60a81045c3b73a653e
+] 
+hash: 0000002969-139fa42aca133cde4449d031c50364edfb738db4e80fe09c236d4d393b89deef
+[updates to toRealTimeMSF
+dwc@cs.yale.edu**20120229011344
+ Ignore-this: dcef2de6805e5818bc11f8cf0d4bd392
+] 
+hash: 0000006775-4af467c377edc10f69eb2be6a203e4d6c488a77e6645f4537b4b7bdcdfb6c566
+[Updated fftA to be easier to use
+dwc@cs.yale.edu**20120303025648
+ Ignore-this: baa11ce93dafd514c20d2a29ee089f82
+] 
+hash: 0000004385-85428f27282abd1c01367f4650ebada87ec0c1262a4b9445ae43e677473e7337
+[GHC 7.4.1 fix
+dwc@cs.yale.edu**20120327192632
+ Ignore-this: cb68ac2417835135a4d973ba6059379
+] 
+hash: 0000000593-e4115016fe4367bc8ee35c4116520f93cccfbf814707fcf6840d10ae0811944d
+[GHC 7.4.1 additional fix
+dwc@cs.yale.edu**20120327192805
+ Ignore-this: 175119f674f225464efff29058c01688
+] 
+hash: 0000000381-227432bc58a2f98889ddc1493eb93eb9014c83a12b12041166810bb6bcbf0556
